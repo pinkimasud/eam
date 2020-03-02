@@ -1,0 +1,403 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+*{
+    font-family: 'Lato', sans-serif;
+    text-decoration: none;
+    list-style: none;
+}
+/* herader section start */
+.head{
+    background-color: #000 ;
+    padding: 10px 0px;
+
+}
+.navbar-brand{
+    width: 50px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 14px;
+}
+.banner-area{
+    background-image: url(../images/snowboarding.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.hg-banner{
+    min-height: 70vh;
+}
+.banner-text{
+
+position: relative;
+}
+.banner-text h1{
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 700;
+    font-size: 50px;
+    margin-bottom: 30px;
+    display: inline-block;
+}
+.banner-text a{
+    padding: 11px 26px;
+    color: #fff;
+    text-transform: uppercase;
+    background-color: black;
+    font-size: 13px;
+    /* font-weight: 700; */
+    position: absolute;
+    bottom: -55px;
+    right: 64px;
+}
+
+
+.snowboards-area{
+     padding: 50px 0px;
+}
+.snowboards-area h2{
+     
+text-transform: uppercase;
+     
+margin-bottom: 30px;
+     
+font-weight: 700;
+}
+.snowboards-area p{
+     
+margin-bottom: 90px;
+}
+.end{
+    margin: 30px 0px;
+}
+.mountain-section{
+    background-image: url(../images/man.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.text-mountain{
+
+}
+.text-mountain h1{
+    color: #fff;
+    font-size: 27px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-top: 50px;
+}
+.text-mountain p{
+    color: #fff;
+    margin-bottom: 20px;
+    text-align: justify;
+    box-sizing: border-box;
+    padding: 20px 18px;
+}
+.feature-section h1{
+    color: #000;
+    font-size: 27px;
+    text-transform: uppercase;
+    font-weight: 700;
+    margin-bottom: 100px;
+}
+/*footer section*/
+.footer-section{
+    background-color:#000;
+    margin: 50px 0px;
+    padding: 30px 0px;
+    color: #fff;
+}
+.hg-footer{
+    min-height: 50vh;
+ }
+.product{
+
+}
+.product h3{
+
+text-transform: uppercase;
+
+font-size: 15px;
+}
+.product ul{
+
+}
+.product ul li{
+
+/* text-align: left; */
+}
+.product ul li a{
+
+color: #fff;
+
+font-size: 10px;
+}
+.product{
+    
+min-height: 250px;
+    
+text-align: left;
+}
+
+
+
+
+ dl, ol, ul {
+    margin-top: 0;
+    margin-bottom: 0; 
+}
+ .footer-content{
+     padding-top: 40px;
+ }
+ .terms ul li a{
+     font-size: 14px;
+     color: #999999; 
+     text-transform: uppercase;
+ }
+ .social-follow ul li a{
+     color:#fff ;
+     font-size: 24px;
+}
+ .social-follow ul li a:hover{
+     color: #fff;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
